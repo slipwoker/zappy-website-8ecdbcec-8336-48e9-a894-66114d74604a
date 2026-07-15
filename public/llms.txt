@@ -1,0 +1,106 @@
+# TOP STYLE — Generative Engine Optimization Map
+
+> An online men's clothing store focused on selling fashion and apparel for men. The store aims to provide a seamless online shopping experience for male customers looking for clothing items.
+
+---
+
+## Pages
+
+### בית
+https://top-style-8ecdbcec.zappy5.app
+חנות אופנת גברים מובילה עם חוויית קנייה חלקה. מצא את סגנון ה-crop top style והטרנדים החמים ביותר. היכנס עכשיו לשדרוג המלתחה!
+
+### אודות
+https://top-style-8ecdbcec.zappy5.app/about
+הכירו את החזון של TOP STYLE: להביא את סגנון ה-overlapping top style ופריטי אופנה ייחודיים לגבר המודרני. הצטרפו למהפכת הסטייל שלנו עוד היום.
+
+### לוקבוק
+https://top-style-8ecdbcec.zappy5.app/lookbook
+דפדפו בלוקבוק העדכני שלנו וקבלו רעיונות לשילוב סגנון ה-scarlett top style במראה היומיומי. לחצו לפרטים ושדרגו את ההופעה שלכם מעכשיו.
+
+### שאלות נפוצות
+https://top-style-8ecdbcec.zappy5.app/faq
+שאלות נפוצות על מידות, משלוחים וטרנד ה-women on top style. קבלו תשובות מהירות והתחילו לקנות בביטחון מלא בחנות הגברים המובילה.
+
+### צור קשר
+https://top-style-8ecdbcec.zappy5.app/contact
+צריכים עזרה בבחירת סגנון ה-crop top style? צרו קשר עם צוות המומחים של TOP STYLE ונחזור אליכם במהירות עם ייעוץ אישי שיתאים בדיוק לכם.
+
+### Products
+https://top-style-8ecdbcec.zappy5.app/products
+המוצרים שלנו - TOP STYLE
+
+### Cart
+https://top-style-8ecdbcec.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://top-style-8ecdbcec.zappy5.app/checkout
+תשלום
+
+### Login
+https://top-style-8ecdbcec.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://top-style-8ecdbcec.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://top-style-8ecdbcec.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://top-style-8ecdbcec.zappy5.app/product/:slug
+פרטי המוצר - TOP STYLE
+
+### Category
+https://top-style-8ecdbcec.zappy5.app/category/:slug
+מוצרים - TOP STYLE
+
+### תודה שפניתם אלינו | TOP STYLE
+https://top-style-8ecdbcec.zappy5.app/thank-you
+TOP STYLE - תודה שפניתם אלינו | TOP STYLE
+
+## Legal & Policy
+
+### Privacy Policy
+https://top-style-8ecdbcec.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://top-style-8ecdbcec.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://top-style-8ecdbcec.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About TOP STYLE
+An online men's clothing store focused on selling fashion and apparel for men. The store aims to provide a seamless online shopping experience for male customers looking for clothing items.
+
+## Target Audience
+- גברים
+
+## Industry
+Men's Fashion Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://top-style-8ecdbcec.zappy5.app/sitemap.xml
+- Robots: https://top-style-8ecdbcec.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://top-style-8ecdbcec.zappy5.app/llms-full.txt
+- Products (JSON): https://top-style-8ecdbcec.zappy5.app/products.json
+- Products (Google Merchant RSS): https://top-style-8ecdbcec.zappy5.app/product-feed.xml
